@@ -1,0 +1,2 @@
+# UK-Fintech-Neobank-Analytics-Dashboard-Onyx-DataDNA
+A Power BI-based Transaction Intelligence Platform for a UK digital neobank to analyze transaction performance, fraud risk, customer behavior, revenue generation, and channel effectiveness. Designed interactive dashboards featuring executive KPIs, fraud analytics, customer segmentation, regional benchmarking, &amp; financial performance monitoring.
